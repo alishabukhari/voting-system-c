@@ -21,6 +21,12 @@ The program allows candidate registration, secure voting, and result calculation
 
 ---
 
+## 🧩 System Workflow
+
+![Workflow Diagram](screenshots/work-flow.png)
+
+---
+
 ## 📂 Project Structure
 ```
 voting-system-c/
